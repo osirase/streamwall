@@ -14,8 +14,8 @@ Under the hood, think of Streamwall as a specialized web browser for mosaicing v
 
 ## Setup
 
-`git clone https://github.com/chromakode/streamwall.git && cd streamwall && npm install && npm start`
-
+1. `git clone https://github.com/chromakode/streamwall.git`
+2. `cd streamwall && npm install && npm start-local`
 
 ## Credits
 
